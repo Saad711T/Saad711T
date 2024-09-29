@@ -28,7 +28,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=compact&)
 
 
 *Made by [Saad The Legend](https://github.com/Saad711T)*.

@@ -28,7 +28,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=compact&theme=dark)
 
 
 

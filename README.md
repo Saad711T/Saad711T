@@ -1,6 +1,7 @@
 # السلام عليكم أنا سعد 👋
 
 مرحباً بك في حسابي !
+Data Science / Software and Web Development / IoT / Machine Learning .
 
 ## نطاق الإهتمامات
 
@@ -17,6 +18,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en/microsoft-365/excel)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ## مشاريعي
 - [LibraryDB](https://github.com/Saad711T/LibraryDB)

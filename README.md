@@ -5,6 +5,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creator_sai711)
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadthelegend.com)
 
+## الشهادات المهنية
+Google Data Analytics Professional Certificate - Google (In progress) 1/8
+PHP & MySQL - Certification Course for Beginners - Udemy (October 2024)
+Databases and SQL for Data Science - IBM (September 2024)
+SQL for Data Science - UC DAVIS (September 2024)
+Introduction to Python - Coursera (September 2024)
+Introduction to HTML - Coursera (August 2024)
+Google التسويق الرقمي - Google (July 2021)
+Hour of Code - Microsoft (2020)
+
+
 مرحباً بك في حسابي ! مهتم بـ :
 Data Science / Software and Web Development / IoT / Machine Learning .
 

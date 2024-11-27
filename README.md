@@ -25,7 +25,7 @@ Data Science / Software and Web Development / IoT / Machine Learning .
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en/microsoft-365/excel)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Linux](https://img.shields.io/badge/platform-Linux-white?logo=linux)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/platform-Linux-orange?logo=linux)](https://www.linux.org/)
 
 
 ## مشاريعي

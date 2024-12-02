@@ -34,12 +34,14 @@ Data Science / Software and Web Development / IoT / Machine Learning .
 - [SaadOS](https://github.com/Saad711T/SaadOS)
 - [My official website](https://saadthelegend.com)
 - [Discord random cars bot](https://github.com/Saad711T/randomcars)
+- [Arabian peninsula maps](https://saadthelegend1.itch.io/arabianpeninsulamaps)
+
 
 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=compact&theme=dark)
 
 
 

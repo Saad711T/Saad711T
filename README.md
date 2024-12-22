@@ -45,7 +45,7 @@ Data Science / Software and Web Development / IoT / Machine Learning .
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=compact&theme=dark)
 
 
 

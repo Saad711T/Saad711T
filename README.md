@@ -1,15 +1,14 @@
 # السلام عليكم أنا سعد 👋
 
-## المزيد عني
+## المزيد عني / More Informations
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadalmalki711/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creator_sai711)
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadthelegend.com)
 
 
-مرحباً بك في حسابي ! مهتم بـ :
-Data Science / Software and Web Development / IoT / Machine Learning .
+Computer science bachelor degree student at Taif Univerity / Data Science NanoDegree student at Udacity / Intrested of Data Science - Software and Web Development - IoT / Machine Learning .
 
-## نطاق الإهتمامات
+## نطاق الإهتمامات / Intrested Things
 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -32,7 +31,7 @@ Data Science / Software and Web Development / IoT / Machine Learning .
 
 
 
-## مشاريعي
+## مشاريعي / My Projects
 - [LibraryDB](https://github.com/Saad711T/LibraryDB)
 - [Volx App](https://blockelteam.itch.io/volx-library)
 - [SaadOS](https://github.com/Saad711T/SaadOS)

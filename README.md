@@ -6,7 +6,9 @@
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadthelegend.com)
 
 
-Computer science bachelor degree student at Taif University / Data Science NanoDegree student at Udacity / Intrested of Data Science - Software and Web Development - IoT - Machine Learning .
+- Computer science bachelor degree student at Taif University
+- Data Science NanoDegree student at Udacity
+- I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
 
 ## نطاق الإهتمامات / Intrested Things
 

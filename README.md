@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadalmalki711/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creator_sai711)
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadthelegend.com)
+[![Coursera](https://img.shields.io/badge/Coursera-%23007CFF.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/saadalmalki711)
+
 
 
 - Computer science bachelor degree student at Taif University

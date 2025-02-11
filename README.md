@@ -12,6 +12,13 @@
 - Data Science NanoDegree student at Udacity
 - I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
 
+## الوظائف المهنية / Jobs Skills
+- Data Analyst (SQL - Microsoft Excel - PowerBI - Python (NumPy & Pandas) in Jupyter Notebook)
+- Mid Level C++ Developer
+- Relational Database Administrator (MySQL - PostgreSQL)
+- Back End Developer with Python (Flask & Django)
+- Technical Artist (Pixel Art - Maps - Cars Artworks)
+
 ## نطاق الإهتمامات / Intrested Things
 
 <p align="center">

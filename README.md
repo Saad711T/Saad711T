@@ -14,9 +14,9 @@
 
 ## المهارات المهنية / Jobs Skills
 - Data Analyst (SQL - Microsoft Excel - PowerBI - Python (NumPy & Pandas) in Jupyter Notebook)
-- Mid Level C++ Developer
 - Relational Database Administrator (MySQL - PostgreSQL)
 - Back End Developer with Python (Flask & Django)
+- Mid Level C++ Developer
 - Technical Artist (Pixel Art - Maps - Cars Artworks)
 
 ## نطاق الإهتمامات / Intrested Things

@@ -53,8 +53,10 @@
 
 ## مشاريعي / My Projects
 - [LibraryDB](https://github.com/Saad711T/LibraryDB)
+- [HospitalDB](https://github.com/Saad711T/HospitalDB)
 - [Volx App](https://blockelteam.itch.io/volx-library)
 - [SaadOS](https://github.com/Saad711T/SaadOS)
+- [Database Connector](https://github.com/Saad711T/DatabaseConnector)
 - [My official website](https://saadthelegend.com)
 - [Discord random cars bot](https://github.com/Saad711T/randomcars)
 - [Arabian peninsula maps](https://saadthelegend1.itch.io/arabianpeninsulamaps)

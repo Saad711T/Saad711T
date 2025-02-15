@@ -52,14 +52,14 @@
 
 
 ## مشاريعي / My Projects
-- [LibraryDB](https://github.com/Saad711T/LibraryDB)
-- [HospitalDB](https://github.com/Saad711T/HospitalDB)
-- [Volx App](https://blockelteam.itch.io/volx-library)
-- [SaadOS](https://github.com/Saad711T/SaadOS)
-- [Database Connector](https://github.com/Saad711T/DatabaseConnector)
-- [My official website](https://saadthelegend.com)
-- [Discord random cars bot](https://github.com/Saad711T/randomcars)
-- [Arabian peninsula maps](https://saadthelegend1.itch.io/arabianpeninsulamaps)
+- [LibraryDB](https://github.com/Saad711T/LibraryDB) : Large Database for book website , The tables in this database is : users - books - authors .
+- [HospitalDB](https://github.com/Saad711T/HospitalDB) : HospitalDB is database using for organize and management medical things in hospital .
+- [Volx App](https://blockelteam.itch.io/volx-library) : Volx App / Volx Library is Social Media app established in Mar 2017 and under-development to Apr 2022 , The app become later to Blogging mobile app. (Windows version coming soon)
+- [SaadOS](https://github.com/Saad711T/SaadOS) : Indie Simple Operation System written in C++ language , This OS will become to a linux distro based on Ubuntu.
+- [Database Connector](https://github.com/Saad711T/DatabaseConnector) : Database Connector is software built in python-tkinter to show SQL Databases in your PC .
+- [My official website](https://saadthelegend.com) : My Official Portfolio
+- [Discord random cars bot](https://github.com/Saad711T/randomcars) : Discord bot publish a random car picture average 12 hour.
+- [Arabian peninsula maps](https://saadthelegend1.itch.io/arabianpeninsulamaps) : Maps E-Book designed and written by : Saad Almalki.
 
 
 

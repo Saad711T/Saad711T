@@ -13,7 +13,7 @@
 - I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
 
 ## المهارات المهنية / Jobs Skills
-- Data Analyst (SQL - Microsoft Excel - PowerBI - Python (NumPy & Pandas) in Jupyter Notebook)
+- Data Analyst (SQL - Microsoft Excel - PowerBI - Python (NumPy & Pandas) in Jupyter Notebook - R)
 - Relational Database Administrator (MySQL - PostgreSQL)
 - Back End Developer with Python (Flask & Django)
 - Mid Level C++ Developer

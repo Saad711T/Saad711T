@@ -1,10 +1,17 @@
 # السلام عليكم أنا سعد 👋
 
 <p align="center">
-    <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150">
-    <img src="https://images.credly.com/size/340x340/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="150">
-    <img src="https://images.credly.com/size/340x340/images/2f37d46d-d163-4f0e-9852-59cceabe329c/image.png" width="150">
+    <a href="https://www.credly.com/badges/335df2fa-522e-49b9-a222-087a27bc63a2">
+        <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150">
+    </a>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/SPW96OECT5TK">
+        <img src="https://images.credly.com/size/340x340/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="150">
+    </a>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/UMJJASIPVYY0">
+        <img src="https://images.credly.com/size/340x340/images/2f37d46d-d163-4f0e-9852-59cceabe329c/image.png" width="150">
+    </a>
 </p>
+
 
 ## المزيد عني / More Informations
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadalmalki711/)

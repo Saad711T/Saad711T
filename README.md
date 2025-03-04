@@ -1,11 +1,15 @@
 # السلام عليكم أنا سعد 👋
 
+<p align="center">
+    <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150">
+    <img src="https://images.credly.com/size/340x340/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="150">
+    <img src="https://images.credly.com/size/340x340/images/2f37d46d-d163-4f0e-9852-59cceabe329c/image.png" width="150">
+</p>
+
 ## المزيد عني / More Informations
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadalmalki711/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creator_sai711)
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadthelegend.com)
-[![Coursera](https://img.shields.io/badge/Coursera-%23007CFF.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/saadalmalki711)
-
 
 
 - Computer science bachelor degree student at Taif University

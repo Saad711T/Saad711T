@@ -7,7 +7,7 @@
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/SPW96OECT5TK">
         <img src="https://images.credly.com/size/340x340/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="150">
     </a>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/UMJJASIPVYY0">
+    <a href="https://www.credly.com/badges/f4b63366-3e3f-45ba-8719-9ac6907942a0">
         <img src="https://images.credly.com/size/340x340/images/2f37d46d-d163-4f0e-9852-59cceabe329c/image.png" width="150">
     </a>
 </p>

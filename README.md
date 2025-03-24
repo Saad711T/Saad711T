@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f78c99e9-89b9-45eb-95e3-ac6a60340cbf)# السلام عليكم أنا سعد 👋
+# السلام عليكم أنا سعد 👋
 
 <p align="center">
     <a href="https://www.credly.com/badges/335df2fa-522e-49b9-a222-087a27bc63a2">

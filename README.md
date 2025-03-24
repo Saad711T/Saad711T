@@ -1,4 +1,4 @@
-# السلام عليكم أنا سعد 👋
+![image](https://github.com/user-attachments/assets/f78c99e9-89b9-45eb-95e3-ac6a60340cbf)# السلام عليكم أنا سعد 👋
 
 <p align="center">
     <a href="https://www.credly.com/badges/335df2fa-522e-49b9-a222-087a27bc63a2">
@@ -7,8 +7,8 @@
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/SPW96OECT5TK">
         <img src="https://images.credly.com/size/340x340/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="150">
     </a>
-    <a href="https://www.credly.com/badges/f4b63366-3e3f-45ba-8719-9ac6907942a0">
-        <img src="https://images.credly.com/size/340x340/images/2f37d46d-d163-4f0e-9852-59cceabe329c/image.png" width="150">
+    <a href="https://www.credly.com/badges/3fab7c40-82a9-41b5-ad68-90fd539a5b77">
+        <img src="https://images.credly.com/size/680x680/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="150">
     </a>
 </p>
 

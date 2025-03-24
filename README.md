@@ -21,7 +21,9 @@
 
 - Computer science bachelor degree student at Taif University
 - Data Science NanoDegree student at Udacity
-- I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
+- Programming for Data Science NanoDegree graduated at Udacity
+
+#### I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
 
 ## المهارات المهنية / Jobs Skills
 - Data Analyst (SQL - Microsoft Excel - PowerBI - Python (NumPy & Pandas) in Jupyter Notebook - R)

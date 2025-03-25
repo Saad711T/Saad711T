@@ -2,13 +2,13 @@
 
 <p align="center">
     <a href="https://www.credly.com/badges/335df2fa-522e-49b9-a222-087a27bc63a2">
-        <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150">
+        <img src="https://images.credly.com/size/500x500/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150">
     </a>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/SPW96OECT5TK">
-        <img src="https://images.credly.com/size/340x340/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="150">
+        <img src="https://images.credly.com/size/490x490/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="150">
     </a>
     <a href="https://www.credly.com/badges/3fab7c40-82a9-41b5-ad68-90fd539a5b77">
-        <img src="https://images.credly.com/size/680x680/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="150">
+        <img src="https://images.credly.com/size/740x740/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="150">
     </a>
 </p>
 

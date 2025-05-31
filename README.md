@@ -15,6 +15,7 @@
 
 ## المزيد عني / More Informations
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
+[![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadthelegend.com)
 

@@ -18,6 +18,7 @@
 [![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadthelegend.com)
+[![Goodreads](https://camo.githubusercontent.com/8696b74fe3203ef4cfe9af3fae73636096155003bb7424b6af5ab9164480be3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f6472656164732d2532336134633633392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f647265616473266c6f676f436f6c6f723d7768697465)](https://www.goodreads.com/user/show/126449633-saad-almalki)
 
 
 - Computer science bachelor degree student at Taif University

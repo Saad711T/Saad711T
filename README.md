@@ -14,6 +14,9 @@
 
 
 ## المزيد عني / More Informations
+
+
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
@@ -21,17 +24,9 @@
 
 
 - Computer science bachelor degree student at Taif University
-- Data Science NanoDegree student at Udacity
 - Programming for Data Science NanoDegree graduated at Udacity
 
 #### I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
-
-## المهارات المهنية / Jobs Skills
-- Data Analyst (SQL - Microsoft Excel - PowerBI - Python (NumPy & Pandas) in Jupyter Notebook - R)
-- Relational Database Administrator (MySQL - PostgreSQL)
-- Back End Developer with Python (Flask & Django)
-- Mid Level C++ Developer
-- Technical Artist (Pixel Art - Maps - Cars Artworks)
 
 ## نطاق الإهتمامات / Intrested Things
 
@@ -79,6 +74,11 @@
 
 
 ---
+
+## احصائيات / Statistics
+[![committers.top badge](https://user-badge.committers.top/saudi_arabia/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia/Saad711T) | [![committers.top badge](https://user-badge.committers.top/saudi_arabia_public/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia_public/Saad711T) |
+|:--:|:--:|
+| Commits | Contributions |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=pie&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,csv,go,dockerfile,c)
 

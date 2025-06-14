@@ -1,3 +1,6 @@
+#### I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
+- Computer science bachelor degree student at Taif University
+- Programming for Data Science NanoDegree graduated at Udacity
 <p align="center">
     <a href="https://www.credly.com/badges/335df2fa-522e-49b9-a222-087a27bc63a2">
         <img src="https://images.credly.com/size/500x500/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150">
@@ -19,12 +22,6 @@
 [![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadthelegend.com)
-
-
-- Computer science bachelor degree student at Taif University
-- Programming for Data Science NanoDegree graduated at Udacity
-
-#### I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
 
 ## نطاق الإهتمامات / Intrested Things
 
@@ -64,13 +61,8 @@
 - [Volx App](https://blockelteam.itch.io/volx-library) : Volx App / Volx Library is Social Media app established in Mar 2017 and under-development to Apr 2022 , The app become later to Blogging mobile app. (Windows version coming soon)
 - [SaadOS](https://github.com/Saad711T/SaadOS) : Indie Simple Operation System written in C++ language , This OS will become to a linux distro based on Ubuntu.
 - [Database Connector](https://github.com/Saad711T/DatabaseConnector) : Database Connector is software built in python-tkinter to show SQL Databases in your PC .
-- [My official website](https://saadthelegend.com) : My Official Portfolio
-- [Discord random cars bot](https://github.com/Saad711T/randomcars) : Discord bot publish a random car picture average 12 hour.
-- [Arabian peninsula maps](https://saadthelegend1.itch.io/arabianpeninsulamaps) : Maps E-Book designed and written by : Saad Almalki.
-
-
-
-
+- [My official website](https://saadthelegend.netlify.app) : My Official Portfolio/Blog
+- [StackOverflow Devs Survey 2024 Analysis](https://github.com/Saad711T/Stackoverflow-2024-Survey-Analysis) : Analyzing the survey for Stackoverflow developers in 2024.
 ---
 
 ## احصائيات / Statistics

@@ -8,8 +8,8 @@
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/SPW96OECT5TK">
         <img src="https://images.credly.com/size/490x490/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="150">
     </a>
-    <a href="https://www.credly.com/badges/3fab7c40-82a9-41b5-ad68-90fd539a5b77">
-        <img src="https://images.credly.com/size/740x740/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="150">
+    <a href="https://www.credly.com/badges/71038d79-f6ed-4682-b4c2-c030203cf28d">
+        <img src="https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" width="150">
     </a>
 </p>
 

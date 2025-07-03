@@ -10,6 +10,16 @@
     </a>
 </p>
 
+<div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Saad711T" alt="My trophies" />
+</div>
+<br>
+
+[![committers.top badge](https://user-badge.committers.top/saudi_arabia/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia/Saad711T) | [![committers.top badge](https://user-badge.committers.top/saudi_arabia_public/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia_public/Saad711T) |
+|:--:|:--:|
+| Commits | Contributions |
+
+
 
 ## المزيد عني / More Informations
 
@@ -18,7 +28,6 @@ I am interested in Data Science - Software and Web Development - IoT - Machine L
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
-[![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadthelegend.com)
 
 ## نطاق الإهتمامات / Intrested Things
 
@@ -50,14 +59,6 @@ I am interested in Data Science - Software and Web Development - IoT - Machine L
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" /></a>
 </p>
 
-## احصائيات / Statistics
-<div>
-    <img src="https://github-profile-trophy.vercel.app/?username=Saad711T" alt="My trophies" />
-</div>
-<br>
-
-[![committers.top badge](https://user-badge.committers.top/saudi_arabia/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia/Saad711T) | [![committers.top badge](https://user-badge.committers.top/saudi_arabia_public/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia_public/Saad711T) |
-|:--:|:--:|
-| Commits | Contributions |
+## اللغات المستخدمة / Top langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=pie&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,csv,go,dockerfile,c)

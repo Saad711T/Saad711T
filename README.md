@@ -11,6 +11,12 @@
 </p>
 
 ---
+##### I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
+[![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
+
 
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=Saad711T" alt="My trophies" />
@@ -21,15 +27,6 @@
 |:--:|:--:|
 | Commits | Contributions |
 
-
-
-## المزيد عني / More Informations
-
-I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
-[![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
 
 ## نطاق الإهتمامات / Intrested Things
 

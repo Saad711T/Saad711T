@@ -50,18 +50,6 @@ I am interested in Data Science - Software and Web Development - IoT - Machine L
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" /></a>
 </p>
 
-
-
-## مشاريعي / My Projects
-- [LibraryDB](https://librarydb.netlify.app) : Mobile Application/Web app for large relational database for books , The tables in this database is : users - books - authors .
-- [HospitalDB](https://github.com/Saad711T/HospitalDB) : HospitalDB is database using for organize and management medical things in hospital .
-- [Volx App](https://blockelteam.itch.io/volx-library) : Volx App / Volx Library is Social Media app established in Mar 2017 and under-development to Apr 2022 , The app become later to Blogging mobile app. (Windows version coming soon)
-- [SaadOS](https://github.com/Saad711T/SaadOS) : Indie Simple Operation System written in C++ language , This OS will become to a linux distro based on Ubuntu.
-- [Database Connector](https://github.com/Saad711T/DatabaseConnector) : Database Connector is software built in python-tkinter to show SQL Databases in your PC .
-- [My official website](https://saadthelegend.netlify.app) : My Official Portfolio/Blog
-- [StackOverflow Devs Survey 2024 Analysis](https://github.com/Saad711T/Stackoverflow-2024-Survey-Analysis) : Analyzing the survey for Stackoverflow developers in 2024.
----
-
 ## احصائيات / Statistics
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=Saad711T" alt="My trophies" />
@@ -73,8 +61,3 @@ I am interested in Data Science - Software and Web Development - IoT - Machine L
 | Commits | Contributions |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=pie&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,csv,go,dockerfile,c)
-
-
-
-
-*Made by [Saad The Legend](https://github.com/Saad711T)*.

@@ -10,12 +10,14 @@
     </a>
 </p>
 
----
-##### Saad Almalki - I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
-
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
+
+
+---
+##### Saad Almalki - I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
+
 
 
 <div>

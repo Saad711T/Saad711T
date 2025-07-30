@@ -8,6 +8,9 @@
     <a href="https://www.credly.com/badges/71038d79-f6ed-4682-b4c2-c030203cf28d">
         <img src="https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" width="150">
     </a>
+    <a href="https://www.udacity.com/certificate/e/b32ada52-bc56-11ef-9395-bf7c49cdfda7">
+        <img src="https://images.credly.com/size/680x680/images/62331d66-bbb6-4912-a986-7ef7f9d29785/image.png" width="150">
+    </a>
 </p>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)

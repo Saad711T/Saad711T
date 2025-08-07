@@ -21,11 +21,6 @@
 ---
 ##### Saad Almalki - I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
 
-
-
-<div>
-    <img src="https://github-profile-trophy.vercel.app/?username=Saad711T" alt="My trophies" />
-</div>
 <br>
 
 [![committers.top badge](https://user-badge.committers.top/saudi_arabia/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia/Saad711T) | [![committers.top badge](https://user-badge.committers.top/saudi_arabia_public/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia_public/Saad711T) |

@@ -1,3 +1,10 @@
+##### Saad Almalki - I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
+[![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
+
+
 <p align="center">
     <a href="https://www.credly.com/badges/335df2fa-522e-49b9-a222-087a27bc63a2">
         <img src="https://images.credly.com/size/500x500/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150">
@@ -13,13 +20,7 @@
     </a>
 </p>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
-[![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
-
-
 ---
-##### Saad Almalki - I am interested in Data Science - Software and Web Development - IoT - Machine Learning .
 
 <br>
 

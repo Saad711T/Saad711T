@@ -61,5 +61,4 @@
 </p>
 
 ## اللغات المستخدمة / Top langs
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=pie&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,csv,go,dockerfile)

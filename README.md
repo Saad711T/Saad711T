@@ -59,6 +59,3 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" /></a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" /></a>
 </p>
-
-## اللغات المستخدمة / Top langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad711T&layout=pie&theme=synthwave&langs_count=20&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,csv,go,dockerfile)

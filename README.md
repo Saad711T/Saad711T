@@ -1,4 +1,4 @@
-<img width="306" height="344" alt="image" src="https://github.com/user-attachments/assets/00814feb-035d-4fcc-9cd8-bc009c15efc0" />##### Saad Almalki - I'm interested in Data Science - Software and Web Development - Machine Learning .
+##### Saad Almalki - I'm interested in Data Science - Software and Web Development - Machine Learning .
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)

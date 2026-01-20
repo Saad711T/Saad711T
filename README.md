@@ -1,10 +1,14 @@
-##### Saad Almalki - I'm interested in Data Science - Software and Web Development - Machine Learning .
+# saad@saad-readme :~$ whoami
+Junior Data Scientist interested in data-driven systems, web development,
+and system engineering, with experience in databases and distributed systems.
+
+## Connect with me :
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
 
-
+## Certifications :
 <p align="center">
     <a href="https://www.credly.com/badges/335df2fa-522e-49b9-a222-087a27bc63a2">
         <img src="https://images.credly.com/size/500x500/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150">
@@ -20,16 +24,8 @@
     </a>
 </p>
 
----
 
-<br>
-
-[![committers.top badge](https://user-badge.committers.top/saudi_arabia/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia/Saad711T) | [![committers.top badge](https://user-badge.committers.top/saudi_arabia_public/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia_public/Saad711T) |
-|:--:|:--:|
-| Commits | Contributions |
-
-
-## المعرفة التقنية / Tech Stack 
+## Tech Stack : 
 <!-- First Comment XD -->
 
 <p align="center">
@@ -50,7 +46,6 @@
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /></a>
     <a href="https://pytorch.org/" target="_blank"> <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" alt="PyTorch" width="40" height="40" /></a
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
-    <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/800px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" alt="Microsoft Excel" width="40" height="40" /></a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
     <a href="https://cloud.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="70" height="50" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" /></a>
@@ -58,3 +53,11 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" /></a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" /></a>
 </p>
+
+---
+
+<br>
+
+[![committers.top badge](https://user-badge.committers.top/saudi_arabia/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia/Saad711T) | [![committers.top badge](https://user-badge.committers.top/saudi_arabia_public/Saad711T.svg)](https://user-badge.committers.top/saudi_arabia_public/Saad711T) |
+|:--:|:--:|
+| Commits | Contributions |

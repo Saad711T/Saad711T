@@ -82,7 +82,7 @@ Junior Data Scientist passionate about data-driven systems, web development, and
       </a>
       <br>R
     </td>
-    <td align="center" width="96">
+    <td align="center" width="135">
       <a href="https://www.latex-project.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="48" height="48" alt="LaTeX" />
       </a>

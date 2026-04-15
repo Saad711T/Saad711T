@@ -81,9 +81,6 @@ Junior Data Scientist passionate about data-driven systems, web development, and
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" alt="PyTorch" width="40" height="40" />
-  </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>

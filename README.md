@@ -16,6 +16,11 @@ Junior Data Scientist passionate about data-driven systems, web development, and
   </a>
 </p>
 
+Others :
+
+- [PyPi](https://pypi.org/user/0xdonzdev/)
+
+
 ## Certifications
 
 <p align="center">

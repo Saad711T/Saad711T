@@ -20,6 +20,11 @@ Others :
 
 - [PyPi](https://pypi.org/user/0xdonzdev/)
 
+- [Medium](https://medium.com/@saadthelegend)
+
+- [Website](https://saadthelegend.netlify.app)
+
+
 
 ## Certifications
 

@@ -2,6 +2,23 @@
 
 Junior Data Scientist passionate about data-driven systems, web development, and system engineering, with hands-on experience in databases, analytics, and distributed systems.
 
+
+<p align="center">
+  <a href="https://user-badge.committers.top/saudi_arabia/Saad711T">
+    <img src="https://user-badge.committers.top/saudi_arabia/Saad711T.svg" alt="Commits Badge" />
+  </a>
+  <a href="https://user-badge.committers.top/saudi_arabia_public/Saad711T">
+    <img src="https://user-badge.committers.top/saudi_arabia_public/Saad711T.svg" alt="Contributions Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>Commits</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Contributions</b></sub>
+</p>
+
+
 ## Connect with Me
 
 <p align="left">
@@ -196,20 +213,3 @@ Others :
     <td align="center" width="96"></td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <a href="https://user-badge.committers.top/saudi_arabia/Saad711T">
-    <img src="https://user-badge.committers.top/saudi_arabia/Saad711T.svg" alt="Commits Badge" />
-  </a>
-  <a href="https://user-badge.committers.top/saudi_arabia_public/Saad711T">
-    <img src="https://user-badge.committers.top/saudi_arabia_public/Saad711T.svg" alt="Contributions Badge" />
-  </a>
-</p>
-
-<p align="center">
-  <sub><b>Commits</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Contributions</b></sub>
-</p>

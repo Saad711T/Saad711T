@@ -24,7 +24,7 @@ Junior Data Scientist passionate about data-driven systems, web development, and
 ## Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/saadalmalki711/" target="_blank">
+  <a href="https://www.linkedin.com/in/saad-al-malki" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.x.com/0xdonzdev" target="_blank">

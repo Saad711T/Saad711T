@@ -2,6 +2,7 @@
 
 Junior Data Scientist passionate about data-driven systems, web development, and system engineering, with hands-on experience in databases, analytics, and distributed systems.
 
+<hr>
 
 <p align="center">
   <a href="https://user-badge.committers.top/saudi_arabia/Saad711T">

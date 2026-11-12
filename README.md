@@ -54,7 +54,7 @@ Others :
     <img src="https://images.credly.com/size/490x490/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="150" alt="Coursera Certificate" />
   </a>
   <a href="https://www.credly.com/badges/71038d79-f6ed-4682-b4c2-c030203cf28d" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" width="150" alt="IBM Data Science Certificate" />
+    <img src="ibmdatascience.png" width="150" alt="IBM Data Science Certificate" />
   </a>
   <a href="https://www.udacity.com/certificate/e/b32ada52-bc56-11ef-9395-bf7c49cdfda7" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/62331d66-bbb6-4912-a986-7ef7f9d29785/image.png" width="150" alt="Udacity Certificate" />
